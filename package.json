@@ -1,0 +1,29 @@
+{
+  "name": "noflo-test",
+  "version": "0.0.1",
+  "description": "A NoFlo test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodom0015/noflo-test.git"
+  },
+  "keywords": [
+    "noflo",
+    "fbp"
+  ],
+  "author": "Mike Lambert <lambert8@ilinois.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodom0015/noflo-test/issues"
+  },
+  "homepage": "https://github.com/bodom0015/noflo-test#readme",
+  "dependencies": {
+    "noflo": "^0.8.6",
+    "noflo-core": "^0.4.1",
+    "noflo-filesystem": "^1.2.1",
+    "noflo-nodejs": "^0.8.1"
+  }
+}
