@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/bodom0015/noflo-test#readme",
   "dependencies": {
+    "js-yaml": "^3.10.0",
     "noflo": "^0.8.6",
     "noflo-core": "^0.4.1",
     "noflo-filesystem": "^1.2.1",
