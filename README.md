@@ -1,7 +1,7 @@
 # NoFlo Test Component
 
 * Navigate to https://apps.flowhub.com
-** Alternatively, build and run NoFlo UI locally
+  * Alternatively, build and run NoFlo UI locally
 * Verify that version >= 0.22.1
 * Click Login and enter GitHub credentials
 * Choose "Authorize" to allow FlowHub to read your profile data
